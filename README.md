@@ -88,7 +88,7 @@ Install urllib with:
 pip install urllib
 ```
 ## Note:
-  >* For more details abou the packages used, Refer [![requirement](https://img.shields.io/badge/main.py-pink.svg?style=flat&logo=appveyor)](https://github.com/Manimaran-SM/Content_Based_Movie_Recommender_System/blob/master/requirements.txt)
+  >* For more details abou the packages used, Refer [![requirement](https://img.shields.io/badge/requirement.txt-pink.svg?style=flat&logo=appveyor)](https://github.com/Manimaran-SM/Content_Based_Movie_Recommender_System/blob/master/requirements.txt)
 
 ## Procedure
   >* Click clone/download
